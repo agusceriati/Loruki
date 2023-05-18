@@ -18,7 +18,7 @@
 }
 
 body{
-    font-family:'lato', sans-serif ;
+    font-family:'Roboto', sans-serif ;
     color: #333;
     line-height:1.6;
 }
@@ -110,7 +110,7 @@ padding: 10px;
     position: relative;
     top: 60px;
     height: 350px;
-    width: 400px;
+    width: 300px;
     padding: 40px;
     z-index: 100;
     justify-self: flex-end;
@@ -122,10 +122,11 @@ padding: 10px;
 .showcase-form input[type="text"]
 .showcase-form input[type="email"]{
     border: 0;
-    border-bottom: 1px solid #b4becb;
+    border-bottom: 1px solid #174d93;
     width: 100%;
     padding: 3px;
     font-size: 16px;
+
 }
 .showcase-form input:focus{
     outline: none;
